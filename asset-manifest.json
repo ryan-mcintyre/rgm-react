@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rgm-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rgm-react/static/js/main.8488a73e.chunk.js",
+    "main.js.map": "/rgm-react/static/js/main.8488a73e.chunk.js.map",
+    "runtime-main.js": "/rgm-react/static/js/runtime-main.94c6824d.js",
+    "runtime-main.js.map": "/rgm-react/static/js/runtime-main.94c6824d.js.map",
+    "static/js/2.032fd2fe.chunk.js": "/rgm-react/static/js/2.032fd2fe.chunk.js",
+    "static/js/2.032fd2fe.chunk.js.map": "/rgm-react/static/js/2.032fd2fe.chunk.js.map",
+    "index.html": "/rgm-react/index.html",
+    "precache-manifest.852c0c04bf15bc374b996d9737082cdd.js": "/rgm-react/precache-manifest.852c0c04bf15bc374b996d9737082cdd.js",
+    "service-worker.js": "/rgm-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rgm-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.032fd2fe.chunk.js.LICENSE.txt": "/rgm-react/static/js/2.032fd2fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rgm-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94c6824d.js",
+    "static/js/2.032fd2fe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8488a73e.chunk.js"
+  ]
+}
