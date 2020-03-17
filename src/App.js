@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+import Me from './Me.jpg';
 import './App.css';
 
 function App() {
   return (
     <div>
       <header className="App-header">
-        <img src={Me} className="App-logo" alt="logo" />
+        <img src={Me} className="App-logo" alt="Me" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
