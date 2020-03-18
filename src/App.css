@@ -1,23 +1,35 @@
-.App {
-  text-align: center;
+.bioPic {
+    height: 15vmin;
+    width: 15vmin;
+    min-width: 10px;
+    min-height: 10px;
+    border-radius: 50%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bioSidebar {
+    background-color: #1c5230;
+    min-height: 30vmin;
+    min-width: 20vmin;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.bioLink {
+    color: #61dafb;
 }
 
-.App-link {
-  color: #61dafb;
+.bioTimeline {
+    text-align: center;
+    vertical-align: middle;
+    width: 85vmin;
+    border: blue 1px solid;
+}
+
+.eventCont {
+    border: black 2px solid;
+    border-radius: 50%;
 }
